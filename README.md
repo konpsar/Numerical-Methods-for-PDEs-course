@@ -6,11 +6,19 @@ Professor: Michael Plexousakis
 
 ## Description
 
-
 The aim of the course is to study numerical methods (finite differences and finite elements) for solving some differential equations.
+
+## Contents
+
 I've uploaded my Python3.6 code, and the Reports in Greek (sorry for that) for each lab assignment done during the semester.
-
-
+<br/>
+Following
+  * 1<sup>th</sup>: Finite Difference, Euler's Method s
+  * 2<sup>th</sup>: Finite Difference Methods for the heat equation 
+  * 3<sup>th</sup>: Finite Difference Methods for the transfer function 
+  * 4<sup>th</sup>: Finite Difference Methods for the wave equation 
+  * 5<sup>th</sup>: Finite Element Methods for Two–Point Boundary–Value problems 
+  * 6<sup>th</sup>(bonus): Finite Element Methods for Two–Point Boundary–Value problems
 
 ## License
 

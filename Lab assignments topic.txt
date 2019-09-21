@@ -1,0 +1,15 @@
+﻿Εργαστηρικές ασκήσεις:
+1η: Πεπερασμένες Διαφορές, η μέθοδος του Euler
+2η: Μέθοδοι πεπερασμένων διαφορών για την εξίσωση της θερμότητας
+3η: Μέθοδοι πεπερασμένων διαφορών για την εξίσωση της μεταφοράς
+4η: Μέθοδοι πεπερασμένων διαφορών για την εξίσωση του κύματος
+5η: Μέθοδοι πεπερασμένων στοιχείων για το πρόβλημα δύο σημείων
+6η(bonus): Μέθοδοι πεπερασμένων στοιχείων για το πρόβλημα δύο σημείων
+
+Lab assignments:
+1th: Finite Difference, Euler's Method s
+2th: Finite Difference Methods for the heat equation 
+3th: Finite Difference Methods for the transfer function 
+4th: Finite Difference Methods for the wave equation 
+5th: Finite Element Methods for Two–Point Boundary–Value problems 
+6th(bonus): Finite Element Methods for Two–Point Boundary–Value problems
